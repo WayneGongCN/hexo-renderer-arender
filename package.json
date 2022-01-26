@@ -1,5 +1,5 @@
 {
-  "name": "hexo-renderer-marked",
+  "name": "hexo-renderer-arender",
   "version": "4.1.0",
   "description": "Markdown renderer plugin for Hexo",
   "main": "index",
